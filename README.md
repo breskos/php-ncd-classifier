@@ -1,6 +1,6 @@
 PHP NCD Classifier
 ----
-
+NCD means Normalized Compression Distance and describes a formula that compares the length of the compressed strings X and Y as well as a concat version of XY.
 This classifier allows you to easily classify texts with PHP.
 You can use the classifier with simply require the file.
 
